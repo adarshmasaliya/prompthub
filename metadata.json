@@ -1,0 +1,5 @@
+{
+  "name": " PromptHub",
+  "description": "A comprehensive platform to discover, share, and manage high-quality text-to-image prompts. It features a user-friendly library for browsing and an administrative panel for full CRUD management of prompts and categories.",
+  "requestFramePermissions": []
+}
